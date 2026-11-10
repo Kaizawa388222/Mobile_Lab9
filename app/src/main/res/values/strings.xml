@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab09 Firebase &amp; Glide</string>
+    <string name="title_auth">Firebase Authentication</string>
+    <string name="title_gallery">Online Image Gallery</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="btn_logout">Đăng xuất</string>
+    <string name="btn_forgot_password">Quên mật khẩu?</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="confirm_password_hint">Xác nhận mật khẩu</string>
+    <string name="error_invalid_email">Email không hợp lệ</string>
+    <string name="error_weak_password">Mật khẩu phải từ 6 ký tự trở lên</string>
+    <string name="error_password_mismatch">Mật khẩu xác nhận không khớp</string>
+    <string name="error_user_collision">Email này đã được đăng ký</string>
+    <string name="error_invalid_credentials">Sai email hoặc mật khẩu</string>
+    <string name="error_network">Lỗi kết nối mạng, vui lòng kiểm tra lại kết nối</string>
+    <string name="error_general">Đã có lỗi xảy ra: %1$s</string>
+    <string name="success_registered">Đăng ký thành công! Đang chuyển hướng...</string>
+    <string name="success_reset_email">Đã gửi email khôi phục mật khẩu. Vui lòng kiểm tra hộp thư!</string>
+    <string name="reset_password_dialog_title">Khôi phục mật khẩu</string>
+    <string name="reset_password_dialog_msg">Nhập địa chỉ email của bạn để nhận liên kết đặt lại mật khẩu:</string>
+    <string name="btn_send">Gửi</string>
+    <string name="btn_cancel">Hủy</string>
+</resources>
